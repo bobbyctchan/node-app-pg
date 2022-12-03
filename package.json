@@ -1,0 +1,23 @@
+{
+  "name": "my276app",
+  "version": "1.0.0",
+  "description": "initial app for cmpt276",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyctchan/276.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbyctchan/276/issues"
+  },
+  "homepage": "https://github.com/bobbyctchan/276#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
